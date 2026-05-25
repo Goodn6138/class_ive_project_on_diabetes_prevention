@@ -1,1 +1,8 @@
-
+flask
+gunicorn
+torch
+torchaudio
+speechbrain
+huggingface_hub
+librosa
+soundfile
